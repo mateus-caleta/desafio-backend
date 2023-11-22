@@ -9,7 +9,7 @@
 
 ## Sobre o ambiente da aplicação
 
-Você pode escolher a linguagem de programação e o framework que preferir para desenvolver a aplicação deste teste. Trabalhe com aquilo que você se sentirá confortável em discutir durante a entrevista.
+Você pode escolher a linguagem de programação e o framework que preferir para desenvolver a aplicação deste teste. Trabalhe com aquilo que você se sentirá confortável.
 
 ---
 
