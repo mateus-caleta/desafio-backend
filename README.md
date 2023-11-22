@@ -2,7 +2,7 @@
 
 ## Antes de começar
 
-- Inicie criando um repositório no seu Github.
+- Inicie criando um repositório publico no seu Github.
 - Faça todos os commits referentes a esse desafio no seu repositório.
 - Quando terminar, envie o link do repositório ao nosso e-mail.
 - Se tiver qualquer dúvida durante o desafio, não hesite em nos perguntar.
